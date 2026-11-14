@@ -1,0 +1,12 @@
+target/
+*.class
+.settings/
+.project
+.classpath
+.idea/
+.vscode/
+.metadata/
+.env
+node_modules/
+dist/
+.angular/
