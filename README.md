@@ -33,6 +33,31 @@ Real-time tracking showing altitude, ground speed, heading, gate and estimated a
 
 ![Live flight radar](docs/screenshots/05-live-radar.png)
 
+### My Bookings and E-Tickets
+Passengers see every booking (PNR), flight, route, fare and seat, with options to view boarding passes, reschedule, or cancel with an instant refund.
+
+![My bookings](docs/screenshots/06-my-bookings.png)
+
+### Boarding Pass
+Confirmed and paid bookings get an electronic boarding pass with ticket number, seat, gate, boarding time, in-flight meal and barcode. The pass is only issued after the booking service verifies the booking and payment.
+
+![Boarding pass](docs/screenshots/07-boarding-pass.png)
+
+### Customer Support
+Help desk with a support assistant, suggested topics and searchable FAQs.
+
+![Customer support](docs/screenshots/08-customer-support.png)
+
+### Admin Dashboard
+Operations view for administrators: KPI cards (flights, customers, bookings, revenue, pending payments), passenger bookings table, flight fleet and registered users. Passenger details in this screenshot are masked.
+
+![Admin dashboard](docs/screenshots/09-admin-dashboard.png)
+
+### Fleet and Flight Management Console
+Airline operations can add and edit flights, manage aircraft, in-flight meals, weekly schedules and the cabin seat configuration.
+
+![Fleet console](docs/screenshots/10-fleet-console.png)
+
 ---
 
 ## 📑 Table of Contents
