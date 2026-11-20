@@ -6,8 +6,38 @@ A microservices-based flight booking platform built with **Spring Boot**, **Spri
 
 ---
 
+## 📸 Screenshots
+
+Captured from the running application (Angular frontend talking to the live Spring Boot microservices through the API Gateway).
+
+### Landing Page
+Hero banner, quick flight search bar and navigation to flights, live radar, bookings and support.
+
+![Landing page](docs/screenshots/01-landing.png)
+
+### Sign In
+![Login page](docs/screenshots/02-login.png)
+
+### Flight Search
+Search by route and date, with fares, airline filters, cabin class, price slider, in-flight meal info and seat availability, all loaded live from the search, flight and fare services.
+
+![Flight search results](docs/screenshots/03-flight-search.png)
+
+### Seat Selection
+Aircraft cabin map with Business, Premium Economy and Economy cabins, exit rows, a per-passenger seat allocation panel, live price total and temporary seat holds.
+
+![Seat selection map](docs/screenshots/04-seat-selection.png)
+
+### Live Flight Radar
+Real-time tracking showing altitude, ground speed, heading, gate and estimated arrival, refreshed every few seconds from the flight-tracking service.
+
+![Live flight radar](docs/screenshots/05-live-radar.png)
+
+---
+
 ## 📑 Table of Contents
 
+0. [Screenshots](#-screenshots)
 1. [System Architecture](#1-system-architecture)
 2. [Services and Ports](#2-services-and-ports)
 3. [End-to-End Booking Workflow](#3-end-to-end-booking-workflow)
